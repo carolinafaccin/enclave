@@ -4,7 +4,7 @@
 This repository contains the code and data to analyze how these urban developments impact native vegetation using data from the MapBiomas Project.
 
 ## Database
-(Link to Zenodo, to download large files soon)
+(soon links to Zenodo to download large files)
 
 ## Repository Structure
 ```
