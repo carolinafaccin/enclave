@@ -6,7 +6,7 @@ This repository contains the code and data to analyze how these urban developmen
 ## Database
 (Link to Zenodo, to download large files soon)
 
-##Repository Structure
+## Repository Structure
 ```
 enclave/
 ├── data/
